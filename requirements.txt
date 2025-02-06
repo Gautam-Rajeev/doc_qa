@@ -1,0 +1,10 @@
+google-generativeai
+json-repair
+marker-pdf
+pandas
+torch
+sentence-transformers
+scikit-learn
+openai
+quart
+numpy
