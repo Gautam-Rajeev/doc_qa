@@ -13,7 +13,7 @@ export GEMINI_API_KEY=''
 python app.py
 ```
 
-This enaables to use two APIS : 
+This enables one to use two APIS : 
 
 ```
 curl -X POST http://localhost:5000/add_docs \
