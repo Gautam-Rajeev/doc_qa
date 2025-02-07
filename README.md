@@ -33,5 +33,5 @@ curl -X POST http://localhost:5000/infer \
 The UI can be run by using :
 
 ```
-python gradio.py
+python gradio_ui.py
 ```
